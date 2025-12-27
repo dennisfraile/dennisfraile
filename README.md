@@ -30,8 +30,8 @@ Aquí están las tecnologías y herramientas con las que trabajo habitualmente:
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[dennisfraile]&show_icons=true&theme=radical" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[dennisfraile]&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=radical" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 
 ---
