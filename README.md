@@ -54,34 +54,6 @@ Trabajo habitualmente con:
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-He añadido enlaces directos a las imágenes SVG y badges de respaldo más fiables. Si las imágenes dinámicas no cargan, usa los enlaces directos o los badges de fallback que siempre deberían mostrarse.
-
-<p align="center">
-  <!-- Dynamic SVGs (may be blocked by browser/extensions) -->
-  <a href="https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=dark" target="_blank" rel="noopener">
-    <img alt="GitHub Stats (SVG)" src="https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=dark" />
-  </a>
-  &nbsp;
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=dark" target="_blank" rel="noopener">
-    <img alt="Top Languages (SVG)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=dark" />
-  </a>
-  &nbsp;
-  <a href="https://streak-stats.demolab.vercel.app/?user=dennisfraile&theme=dark" target="_blank" rel="noopener">
-    <img alt="GitHub Streak (SVG)" src="https://streak-stats.demolab.vercel.app/?user=dennisfraile&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Fallback badges using shields.io (more reliable) -->
-  <img alt="Followers" src="https://img.shields.io/github/followers/dennisfraile?label=Followers&style=flat&logo=github" />
-  &nbsp;
-  <img alt="Public Repos" src="https://img.shields.io/github/repo-size/dennisfraile/dennisfraile?style=flat&logo=github" />
-</p>
-
----
-
 ## 📫 Contáctame
 
 <p align="center">
@@ -100,15 +72,4 @@ He añadido enlaces directos a las imágenes SVG y badges de respaldo más fiabl
 
 ---
 
-### Si las estadísticas siguen sin mostrarse
-
-1. Abre directamente estas URLs en tu navegador para ver si el servicio responde:
-   - https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=dark
-   - https://github-readme-stats.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=dark
-   - https://streak-stats.demolab.vercel.app/?user=dennisfraile&theme=dark
-
-2. Prueba en modo incógnito o desactiva extensiones de bloqueo (adblock, privacidad).  
-3. Si estás en una red corporativa, podría bloquear contenido desde Vercel/Cloudflare; prueba otra red o móvil para aislar el problema.  
-4. Si todo falla, puedo reemplazar las imágenes por capturas estáticas (subidas al repo) o dejar sólo los badges de shields.io como versión definitiva.
-
-Si quieres, aplico esta actualización ahora en main (confirmado) o la subo a una rama de prueba. Hago el commit que prefieras.
+Nota: He eliminado la sección de estadísticas para evitar problemas de visualización por bloqueos externos. Si en el futuro quieres volver a incluirlas (dinámicas o estáticas), puedo añadir capturas o badges según prefieras.
