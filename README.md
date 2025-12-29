@@ -30,6 +30,8 @@ Aquí están las tecnologías y herramientas con las que trabajo habitualmente:
 ### 📊 Estadísticas de GitHub
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=radical)
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=radical)
 ---
 
 ### 📫 Contáctame
