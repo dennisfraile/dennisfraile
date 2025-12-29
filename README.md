@@ -8,18 +8,18 @@
 
 Aquí están las tecnologías y herramientas con las que trabajo habitualmente:
 
-[![Mis Habilidades](https://skillicons.dev/icons?i=php,laravel,py,django,cs,dotnet,vue,react,ts,sqlserver,postgres)](https://skillicons.dev)
+[![Mis Habilidades](https://skillicons.dev/icons?i=php,laravel,py,django,cs,dotnet,vue,react,ts,mssql,postgres)](https://skillicons.dev)
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=radical&cache_id=1)
+![Estadísticas](https://github-readme-stats-git-masterrstp-anuraghazras-projects.vercel.app/api?username=dennisfraile&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=radical&cache_id=1)
+![Lenguajes](https://github-readme-stats-git-masterrstp-anuraghazras-projects.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=radical)
 
-![Racha de GitHub](https://streak-stats.demolab.com/?user=dennisfraile&theme=radical)
+![Racha](https://github-readme-streak-stats.herokuapp.com/?user=dennisfraile&theme=radical)
 
 ---
 
