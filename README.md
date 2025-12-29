@@ -14,10 +14,9 @@ Aquí están las tecnologías y herramientas con las que trabajo habitualmente:
 
 ### 📊 Estadísticas de GitHub
 
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=radical)
 
-![Estadísticas](https://github-readme-stats-git-masterrstp-anuraghazras-projects.vercel.app/api?username=dennisfraile&show_icons=true&theme=radical)
-
-![Lenguajes](https://github-readme-stats-git-masterrstp-anuraghazras-projects.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=radical)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=radical)
 
 ![Racha](https://github-readme-streak-stats.herokuapp.com/?user=dennisfraile&theme=radical)
 
@@ -25,5 +24,5 @@ Aquí están las tecnologías y herramientas con las que trabajo habitualmente:
 
 ### 📫 Contáctame
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/dennis-alexander-fraile-serrano)
-* 📧 [Email](dafsgamer3@outlook.es)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-alexander-fraile-serrano)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:dafsgamer3@outlook.es)
