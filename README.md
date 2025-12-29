@@ -29,12 +29,13 @@ Aquí están las tecnologías y herramientas con las que trabajo habitualmente:
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=radical)
+![Estadísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=dennisfraile&show_icons=true&theme=radical)
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=radical)
+![Lenguajes](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=radical)
+
 ---
 
 ### 📫 Contáctame
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/DennisAlexanderFraileSerrano)
+* 💼 [LinkedIn](https://www.linkedin.com/in/DennisAlexander)
 * 📧 [Email](dafsgamer3@outlook.es)
