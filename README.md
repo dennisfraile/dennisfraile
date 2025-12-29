@@ -70,6 +70,3 @@ Trabajo habitualmente con:
   </a>
 </p>
 
----
-
-Nota: He eliminado la sección de estadísticas para evitar problemas de visualización por bloqueos externos. Si en el futuro quieres volver a incluirlas (dinámicas o estáticas), puedo añadir capturas o badges según prefieras.
