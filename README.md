@@ -37,5 +37,5 @@ Aquí están las tecnologías y herramientas con las que trabajo habitualmente:
 
 ### 📫 Contáctame
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/DennisAlexander)
+* 💼 [LinkedIn](https://www.linkedin.com/in/dennis-alexander-fraile-serrano)
 * 📧 [Email](dafsgamer3@outlook.es)
