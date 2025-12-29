@@ -27,9 +27,9 @@ Aquí están las tecnologías y herramientas con las que trabajo habitualmente:
 
 ---
 
-### 🔥 Racha de contribuciones
+### 📊 Estadísticas de GitHub
 
-![Racha](https://github-readme-streak-stats.herokuapp.com/?user=dennisfraile&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=radical)
 ---
 
 ### 📫 Contáctame
