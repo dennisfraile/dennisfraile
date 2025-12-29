@@ -1,23 +1,5 @@
 # Hola 👋, soy Dennis Fraile
 
-<p align="center">
-  <strong>🚀 Desarrollador Full Stack</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dennisfraile" target="_blank" rel="noopener">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dennis-alexander-fraile-serrano" target="_blank" rel="noopener">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dafsgamer3@outlook.es">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=microsoft-outlook&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## Sobre mí
 
 Desarrollador Full Stack con experiencia en PHP/Laravel, Python/Django, .NET/C#, y front-end moderno (Vue, React, TypeScript). Me gusta construir aplicaciones escalables, enfocadas en la experiencia del usuario y con código limpio y mantenible.
