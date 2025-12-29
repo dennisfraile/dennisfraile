@@ -57,9 +57,9 @@ Trabajo habitualmente con:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=gruvbox" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=gruvbox" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.vercel.app/?user=dennisfraile&theme=gruvbox" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dennisfraile&show_icons=true&theme=dark" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisfraile&layout=compact&theme=dark" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.vercel.app/?user=dennisfraile&theme=dark" />
 </p>
 
 ---
@@ -82,4 +82,4 @@ Trabajo habitualmente con:
 
 ---
 
-Nota: si las estadísticas siguen sin visualizarse, puede deberse a bloqueo de recursos de terceros o caché del navegador. Puedo probar otros temas (`dark`, `radical`) o eliminar temporalmente la imagen de racha si prefieres.
+Nota: si las estadísticas siguen sin visualizarse, puede deberse a bloqueo de recursos de terceros o caché del navegador. Puedo probar otro tema (`radical`, `tokyonight`) o eliminar temporalmente la imagen de racha si prefieres.
